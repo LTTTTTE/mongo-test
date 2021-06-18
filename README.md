@@ -1,4 +1,10 @@
-## 몽고디비 
+## 몽고디비
+
+- Replica Set
+- Sharding
+- balancer
+- subset pattern
+
 
 ### docker
 
